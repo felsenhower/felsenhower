@@ -18,6 +18,7 @@ Hi, I'm Ruben and I'm currently studying MSc Computer Science at Universität Ha
 
 ### A list of interesting stuff I made:
 * [ohmyzsh](https://github.com/felsenhower/ohmyzsh) (Shell, Fork)
+* [dotfiles](https://github.com/felsenhower/dotfiles)
 * [biblatex-online-entry-generator](https://github.com/felsenhower/biblatex-online-entry-generator) (JS)
 * [cpp-memory-pool-demo](https://github.com/felsenhower/cpp-memory-pool-demo) (C++)
 
