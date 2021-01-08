@@ -16,13 +16,17 @@ Hi, I'm Ruben and I'm currently studying MSc Computer Science at Universität Ha
 * [hexadoku-ocr](https://github.com/felsenhower/hexadoku-ocr) (Python)
 * [and others...](https://github.com/felsenhower?tab=repositories)
 
+### A list of interesting stuff I made:
+* [ohmyzsh (Shell, Fork)](https://github.com/felsenhower/ohmyzsh)
+* [biblatex-online-entry-generator (JS)](https://github.com/felsenhower/biblatex-online-entry-generator)
+* [cpp-memory-pool-demo (C++)](https://github.com/felsenhower/cpp-memory-pool-demo) (C++)
+
 ### A list of *interesting* stuff I made:
 * [stine_calendar_bot](https://github.com/felsenhower/stine_calendar_bot) (Java)
 * [lost-in-translation](https://github.com/felsenhower/lost-in-translation) (Python)
 * [BfRify](https://github.com/felsenhower/BfRify) (bash)
-* [cpp-memory-pool-demo](https://github.com/felsenhower/cpp-memory-pool-demo) (C++)
-* [ｆｕｌｌ－ｗｉｄｔｈ](https://gist.github.com/felsenhower/e103a0f6c2354b9d74afd9e6e60c16c5)
-* [prepare-commit-msg](https://gist.github.com/felsenhower/10a91e5943668825dc965c995054ac14)
+* [ｆｕｌｌ－ｗｉｄｔｈ (Perl)](https://gist.github.com/felsenhower/e103a0f6c2354b9d74afd9e6e60c16c5)
+* [prepare-commit-msg (Shell)](https://gist.github.com/felsenhower/10a91e5943668825dc965c995054ac14)
 
 ### Links
 * [XING](https://www.xing.com/profile/Ruben_Felgenhauer/)
