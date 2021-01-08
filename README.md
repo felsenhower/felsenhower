@@ -21,6 +21,8 @@ Hi, I'm Ruben and I'm currently studying MSc Computer Science at Universität Ha
 * [lost-in-translation](https://github.com/felsenhower/lost-in-translation) (Python)
 * [BfRify](https://github.com/felsenhower/BfRify) (bash)
 * [cpp-memory-pool-demo](https://github.com/felsenhower/cpp-memory-pool-demo) (C++)
+* [ｆｕｌｌ－ｗｉｄｔｈ](https://gist.github.com/felsenhower/e103a0f6c2354b9d74afd9e6e60c16c5)
+* [prepare-commit-msg](https://gist.github.com/felsenhower/10a91e5943668825dc965c995054ac14)
 
 ### Links
 * [XING](https://www.xing.com/profile/Ruben_Felgenhauer/)
