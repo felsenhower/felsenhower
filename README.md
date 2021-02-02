@@ -14,6 +14,7 @@ Hi, I'm Ruben and I'm currently studying MSc Computer Science at Universität Ha
 * [tetris-is-no-game](https://github.com/felsenhower/tetris-is-no-game) (<span>L<sup style="font-size:0.85em;vertical-align:-0.2em;margin-left:-0.26em;margin-right:-0.05em;">A</sup>T<sub style="vertical-align:-0.1ex;margin-left:-0.1667em;margin-right:-0.025em;font-size: 0.9em;">E</sub>X</span>)
 * [partdiffpp](https://github.com/felsenhower/partdiffpp) (C++)
 * [hexadoku-ocr](https://github.com/felsenhower/hexadoku-ocr) (Python)
+* [elf-plotter](https://github.com/felsenhower/elf-plotter) (Python)
 * [and others...](https://github.com/felsenhower?tab=repositories)
 
 ### A list of interesting stuff I made:
