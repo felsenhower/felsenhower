@@ -1,7 +1,5 @@
 
-Hi, I'm Ruben and I'm currently studying MSc Physics at Universität Hamburg.
-
-I have previously graduated in the programmes BSc Computing in Science (SP Physics) and MSc Computer Science.
+Hi, I'm Ruben and I'm currently doing my PhD in Astrophysics.
 
 ### Skills
 * `C++`, `C`, `Python`, `LaTeX`, `Bash`, `AWK`, `Perl`, `MatLab`, `Java`, `Object Pascal`, `HTML`, `CSS`, `JS`
