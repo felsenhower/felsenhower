@@ -18,20 +18,6 @@ Hi, I'm Ruben and I'm currently doing my PhD in Astrophysics.
 * [elf-plotter](https://github.com/felsenhower/elf-plotter) (Python)
 * [and others...](https://github.com/felsenhower?tab=repositories)
 
-### A list of interesting stuff I made:
-* [ohmyzsh](https://github.com/felsenhower/ohmyzsh) (Shell, Fork)
-* [dotfiles](https://github.com/felsenhower/dotfiles)
-* [kscreenlocker-auto-screen-off](https://github.com/felsenhower/kscreenlocker-auto-screen-off) (Python)
-* [biblatex-online-entry-generator](https://github.com/felsenhower/biblatex-online-entry-generator) (JS)
-* [cpp-memory-pool-demo](https://github.com/felsenhower/cpp-memory-pool-demo) (C++)
-
-### A list of *interesting* stuff I made:
-* [stine_calendar_bot](https://github.com/felsenhower/stine_calendar_bot) (Java)
-* [lost-in-translation](https://github.com/felsenhower/lost-in-translation) (Python)
-* [BfRify](https://github.com/felsenhower/BfRify) (bash)
-* [ｆｕｌｌ－ｗｉｄｔｈ](https://gist.github.com/felsenhower/e103a0f6c2354b9d74afd9e6e60c16c5) (Perl)
-* [prepare-commit-msg](https://gist.github.com/felsenhower/10a91e5943668825dc965c995054ac14) (Shell)
-
 ### Links
 * [XING](https://www.xing.com/profile/Ruben_Felgenhauer/)
 * [LinkedIn](https://www.linkedin.com/in/ruben-felgenhauer-874743183/)
